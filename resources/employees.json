@@ -1,0 +1,35 @@
+[
+    {
+        "id": "4e7d6978-56f0-4003-a2da-79640c8f48c5",
+        "name": "Ian Devling",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+        "office": "CTO office",
+        "tags": "Ceo,tag1,manager,cto",
+        "positionName": "Chief Executive Officer",
+        "hiringDate": "2020-04-02T00:00:00.000Z",
+        "employeeCode": "O-0001",
+        "parentId": ""
+    },
+    {
+        "id": "5cf0391f-a85d-4889-b0f7-d42c5da05369",
+        "name": "Davolio Nancy",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "positionName": "CTO",
+        "hiringDate": "2020-04-02T00:00:00.000Z",
+        "employeeCode": "O-0002",
+        "parentId": "4e7d6978-56f0-4003-a2da-79640c8f48c5"
+    },
+    {
+        "id": "d4c89c33-2de3-410c-9dbb-0855ac0ca953",
+        "name": "Leverling Janet",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "positionName": "CTO",
+        "hiringDate": "2020-04-02T00:00:00.000Z",
+        "employeeCode": "O-0003",
+        "parentId": "4e7d6978-56f0-4003-a2da-79640c8f48c5"
+    }
+]
